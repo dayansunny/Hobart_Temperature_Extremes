@@ -1,0 +1,11 @@
+# Superseded notebooks and data kept locally for reference
+archive/
+
+# macOS (including AppleDouble files written to exFAT/FAT drives)
+.DS_Store
+._*
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+Untitled*.ipynb

@@ -1,0 +1,14 @@
+name: hobart-climate-risk
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - xarray>=2024.6
+  - netcdf4
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - cartopy
+  - jupyterlab
+  - nbconvert
